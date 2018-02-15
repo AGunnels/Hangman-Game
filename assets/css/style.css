@@ -1,0 +1,85 @@
+header{
+    border: 1px solid black;
+    font: 20px;
+    color: chartreuse;
+    height: 80px;
+    width: 60%;
+    text-align: center;
+    margin: 25px;
+    margin-left: 275px;
+
+}
+body{
+    background-color: #6d695c;
+background-image:
+repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
+linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
+background-size: 70px 120px;
+}
+
+.bacon{
+    /* display: inline; */
+    /*border: 1px solid black;*/
+    height: 150px;
+    width: 60%;
+    margin: 5px;
+    margin-left: 480px;
+}
+
+.startGame{
+    border: 1px solid black;
+    font: 20px;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 275px;
+    color: chartreuse;
+}
+
+.underscore{
+    border: 1px solid black;
+    font: 20px;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+    margin: 5px;
+    margin-left: 275px;
+
+}
+
+.wrongGuess{
+    border: 1px solid black;
+    font: 20px;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+    margin: 5px;
+    margin-left: 275px;
+    color: chartreuse;
+}
+
+.rightGuess{
+    border: 1px solid black;
+    font: 20px;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+    margin: 5px;
+    margin-left: 275px;
+    color: chartreuse;
+}
+
+.wins {
+    border: 1px solid black;
+    font: 20px;
+    height: 50px;
+    width: 60%;
+    text-align: center;
+    margin: 5px;
+    margin-left: 275px;
+    color: chartreuse;
+
+}
